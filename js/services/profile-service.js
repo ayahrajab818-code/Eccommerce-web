@@ -40,6 +40,7 @@ class ProfileService
                  templateBuilder.append("error", data, "errors")
              })
     }
+
 }
 
 document.addEventListener("DOMContentLoaded", () => {
