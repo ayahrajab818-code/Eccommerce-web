@@ -23,12 +23,6 @@ After checkout, the cart is converted into an order, saved in the database, and 
 Admin users have additional access to manage categories and products. All endpoints were tested using Insomnia and verified through the provided web interface.
 </p>
 
-<p>
-The API supports product browsing, category management, authentication,
-shopping cart functionality, and checkout preparation. All API endpoints
-were tested using <strong>Insomnia</strong>, and functionality was verified
-through the provided front-end web application.
-</p>
 
 <hr/>
 
